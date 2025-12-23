@@ -1,11 +1,10 @@
 pyrogram==1.4.12
 TgCrypto
 python-dotenv
-youtube-dl
+yt-dlp
 requests
 aiohttp[speedups]
 aiofiles
-asyncio==3.4.3
 python-arq
 search_engine_parser
 wget
@@ -13,6 +12,7 @@ ffmpeg-python
 Pillow==10.1.0
 ujson
 pymongo[srv]
+dnspython
 psutil
 motor
 py-tgcalls
